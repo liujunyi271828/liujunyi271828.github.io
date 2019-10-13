@@ -12,7 +12,6 @@ share: true
 
 整理一下, 以备后用.
 
-
 这个是一个核心基于 jQuery 的实现. 底子是在 Bootstrap 4.3.1 框架里写的. 你要是正常用 Bootstrap 的话, 不可能不导入 jQuery, 不然我就从 SCD 大楼楼顶上跳下来.
 
 ## 资源介绍

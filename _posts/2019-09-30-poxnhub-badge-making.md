@@ -10,6 +10,8 @@ share: true
 
 > 记一下这个东西, 万一用上了呢.
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
+
 记一下, 省着现找了.
 
 是一位国人作者做的, 在线应用地址见: [Logoly.Pro —— A creative Logo Generator](https://logoly.pro/#/), 此外这个项目还有相应的 GitHub 主页: [bestony/logoly](https://github.com/bestony/logoly).

@@ -10,7 +10,7 @@ share: true
 
 > 为提高搬砖速度而淬炼技巧.
 
-![fuck-Scdiler](https://img.shields.io/badge/fuck-scdiler-%23fd9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
+![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
 
 需求是这样的, 比如说我们从 [360doc个人图书馆](http://www.360doc.com/index.html) 这种地方找了个文章, 但是吧直接选中里面内容 ctrl + C 再 ctrl + V 是搞不下来的, 你注册个账号可能都不一定能搞到, 简直不能更坑爹, 所以你自然而然就得查看源代码去把你要的那些纯文本对应的 HTML 富文本代码给复制粘贴过来, 现在说的就是怎么从 HTML 富文本里面搞到纯文本. 那种本身就是个 PDF 或是 DOC 这种的东西不在讨论范围内.
 
