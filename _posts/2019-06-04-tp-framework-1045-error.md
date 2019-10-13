@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "TP3页面提示“SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost'(using password: YES)”错误"
-description: "TP框架使用的问题"
+title: "TP3 页面提示“SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost'(using password: YES)”错误"
+description: "ThinkPHP 3 框架使用的问题."
 date: 2019-06-04
 tags: [提高姿势水平]
 comments: true
 share: true
 ---
 
+> ThinkPHP 3 框架使用的问题.
 
 故事背景: 往macOS系统上部署使用了TP3框架的PHP应用, 想方设法让它跑起来, 要不干不出产值, 往后一切都是扯谈.
 

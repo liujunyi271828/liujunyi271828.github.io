@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在md中打出反单引号(backtick)"
+title: "如何在md中打出反单引号 (backtick)"
 description: "为干出产值而研究技术."
 date: 2019-07-11
 tags: [提高姿势水平]
@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 为干出产值而研究技术.
 
 举个例子, 比如说我们想打出下面这个东西, 该如何是好呀:
 

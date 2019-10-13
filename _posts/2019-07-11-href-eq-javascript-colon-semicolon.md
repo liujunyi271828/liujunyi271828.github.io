@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+> 为公司上市而读书.
+
 * toc
 {:toc}
 

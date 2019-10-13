@@ -8,7 +8,9 @@ comments: true
 share: true
 ---
 
-复习一下Linux路径的相关姿势, 由于手头没有CentOS的机子, 而且拿不知道是干什么的Windows机子做也不太好, 就拿macOS机子模拟吧.
+> 复习一下Linux路径的姿势.
+
+由于手头没有CentOS的机子, 而且拿不知道是干什么的Windows机子做也不太好, 就拿macOS机子模拟吧.
 
 
 ## 根目录、绝对路径和相对路径

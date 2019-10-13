@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "TP3页面提示“SQLSTATE[HY000] [2002] No such file or directory”错误"
-description: "TP3框架使用的问题"
+description: "TP3框架使用的问题."
 date: 2019-07-08
 tags: [提高姿势水平]
 comments: true
 share: true
 ---
+
+> TP3框架使用的问题.
 
 这个和[TP3页面提示“SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost'(using password: YES)”错误](https://liujunyi271828.github.io/2019-06-04/tp-framework-1045-error/)比较类似. 可以传送过去看看.
 

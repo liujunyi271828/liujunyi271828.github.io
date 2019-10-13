@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "能愿动词介绍 - Key words for use in RFCs to Indicate Requirement Levels"
-description: "能愿动词介绍"
+description: "能愿动词介绍."
 date: 2019-04-24
 tags: [提高姿势水平]
 comments: true
 share: true
 ---
 
-
+> 能愿动词介绍.
 
 英文原文请见[https://www.ietf.org/rfc/rfc2119.txt](https://www.ietf.org/rfc/rfc2119.txt). 这里放上核心的信息. 我们平时是用英文版的居多.
 

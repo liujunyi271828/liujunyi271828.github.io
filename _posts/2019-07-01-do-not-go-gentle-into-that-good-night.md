@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> Dylan Marlais Thomas, born October 27, 1914, in South Wales, was the archetypal Romantic poet of the popular American imagination—he was flamboyantly theatrical, a heavy drinker, engaged in roaring disputes in public, and read his work aloud with tremendous depth of feeling and a singing Welsh lilt.
 
 我最喜欢的几个文学作品之一.
 

@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 为公司上市而修电脑.
 
 ## 现象
 

@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 记录下来, 省着一遍遍查...
 
 Windows的由于目前不怎么用, 就不写了, 等用到的时候再说.
 

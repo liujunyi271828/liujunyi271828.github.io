@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 了解一下当成文学素材.
 
 原文转自[https://norse-mythology.net/the-nine-worlds-in-norse-mythology/](https://norse-mythology.net/the-nine-worlds-in-norse-mythology/)
 
