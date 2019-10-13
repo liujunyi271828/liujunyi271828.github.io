@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+> 为公司而了解工具.
+
 背景: 想拿 Navicat Premium 看一下 MAMP Pro 带的 MySQL 数据库, 但是卡在用户名和密码那里了. 
 
 

@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "&lt;style&gt;blahblahblah...&lt;/style&gt;和&lt;script&gt;blahblah......&lt;/script&gt;该放到HTML文档中的什么位置呢..."
-description: "为公司而研究技术"
+description: "为公司而研究技术."
 date: 2019-07-19
 tags: [提高姿势水平]
 comments: true
 share: true
 ---
+
+> 为公司而研究技术.
 
 看 jQuery 视频的时候想到的这个问题...确认一下.
 

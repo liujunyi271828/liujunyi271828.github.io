@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 了解一下这几个东西的区别和联系.
 
 前两天在ZH上看到的一个回答[前端三大框架以及jQuery与bootstrap这种框架有什么（概念上、范畴上的）区别？- 陈龙](https://www.zhihu.com/question/304757674/answer/546374749), 个人感觉写得比较好. 把里面拼错的单词改正了一下.
 

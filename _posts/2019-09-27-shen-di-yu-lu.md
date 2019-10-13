@@ -8,9 +8,11 @@ comments: true
 share: true
 ---
 
-
+> 将申帝朋友圈语录结集成册.
 
 **最新内容更新时间: 2019-09-27**
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![fuck-Scdiler](https://img.shields.io/badge/fuck-scdiler-%23fd9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
 
 
 > “凡是领导作出的决策, 我们都坚决拥护; 凡是领导的指示, 我们都始终不渝地遵循.”

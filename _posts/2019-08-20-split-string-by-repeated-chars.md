@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 为公司而学习正则表达式.
 
 这个回答由 Stack Overflow 的答主 [user3942918](https://stackoverflow.com/users/3942918/user3942918) 提供: [How to split a string by repeated characters in PHP?](https://stackoverflow.com/a/33197074/11457285).
 

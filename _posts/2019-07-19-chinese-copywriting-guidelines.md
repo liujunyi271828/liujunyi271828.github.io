@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sparanoid/中文文案排版指北"
+title: "sparanoid / 中文文案排版指北"
 description: "和各种代码规范以及垃圾分类标准一样, 也是需要了解一下的."
 date: 2019-07-19
 tags: [提高姿势水平]
@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 和各种代码规范以及垃圾分类标准一样, 也是需要了解一下的.
 
 原文引自: [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines), 有修改.
 

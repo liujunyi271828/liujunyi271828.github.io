@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "转自gto76/python-cheatsheet: Python笔记, 万一哪天想看了呢."
-description: "为公司上市而学习Python."
+title: "转自 gto76/python-cheatsheet: Python 笔记, 万一哪天想看了呢."
+description: "为公司上市而学习 Python."
 date: 2019-07-31
 tags: [提高姿势水平]
 comments: true
 share: true
 ---
 
+> 为公司上市而学习 Python.
 
 转自 [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet), 原文作者为Jure Šorn([gto76](https://github.com/gto76)). 
 

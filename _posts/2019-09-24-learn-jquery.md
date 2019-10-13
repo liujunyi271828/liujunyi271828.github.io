@@ -8,6 +8,7 @@ comments: true
 share: true
 ---
 
+> 为公司上市而学习 jQuery.
 
 > ...As capitalist, shEnD is only capital personified. His soul is the soul of capital. But capital has one single life impulse, the tendency to create value and surplus-value, to make its constant factor, the means of production, absorb the greatest possible amount of surplus labour.
 > 

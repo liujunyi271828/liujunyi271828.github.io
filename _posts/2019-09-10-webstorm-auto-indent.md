@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-> 为更快创造产值而研究使用工具
+> 为更快创造产值而研究使用工具.
 
 * TOC
 {:toc}

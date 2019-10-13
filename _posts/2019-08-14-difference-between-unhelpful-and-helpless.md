@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+> 为实现公司的伟大复兴而学习英语.
+
 * TOC
 {:toc}
 
