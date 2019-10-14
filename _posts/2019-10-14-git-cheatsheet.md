@@ -18,7 +18,7 @@ share: true
 
 <table>
   <tr>
-    <th colspan="3">BRANCHES.</th>
+    <th colspan="3"><strong>BRANCHES.</strong></th>
   </tr>
   <tr>
     <td><code style="color:#FF00FF">git branch</code></td>
@@ -61,7 +61,7 @@ share: true
     <td><input name="git push origin :branch_name" class="copyEl" type="button" value="Copy" readonly/></td>
   </tr>
   <tr>
-    <th colspan="3">LOGS.</th>
+    <th colspan="3"><strong>LOGS.</strong></th>
   </tr>
   <tr>
     <td><code style="color:#FF00FF">git log --oneline</code></td>
@@ -99,7 +99,7 @@ share: true
     <td><input name="git remote show origin" class="copyEl" type="button" value="Copy" readonly/></td>
   </tr>
   <tr>
-    <th colspan="3">CLEANUP.</th>
+    <th colspan="3"><strong>CLEANUP.</strong></th>
   </tr>
   <tr>
     <td><code style="color:#FF00FF">git clean -f</code></td>
@@ -122,7 +122,7 @@ share: true
     <td><input name="git reset HEAD myfile" class="copyEl" type="button" value="Copy" readonly/></td>
   </tr>
   <tr>
-    <th colspan="3">TAGS.</th>
+    <th colspan="3"><strong>TAGS.</strong></th>
   </tr>
   <tr>
     <td><code style="color:#FF00FF">git tag</code></td>
@@ -140,7 +140,7 @@ share: true
     <td><input name="git push --tags" class="copyEl" type="button" value="Copy" readonly/></td>
   </tr>
   <tr>
-    <th colspan="3">STASHES.</th>
+    <th colspan="3"><strong>STASHES.</strong></th>
   </tr>
   <tr>
     <td><code style="color:#FF00FF">git stash save "stash name" && git stash</code></td>
@@ -159,7 +159,7 @@ share: true
   </tr>
 </table>
 
-PS: 拷贝的那个 JavaScript 代码出自 [2015 年的 Stack Overflow 问题回答](https://stackoverflow.com/a/33928558):
+PS: 起拷贝功能的那个 JavaScript 代码出自 [2015 年的 Stack Overflow 问题回答](https://stackoverflow.com/a/33928558):
 
 ```javascript
 <script>
