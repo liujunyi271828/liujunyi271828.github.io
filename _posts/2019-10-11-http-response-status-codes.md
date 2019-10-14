@@ -28,10 +28,10 @@ share: true
 
 > HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:<br/>
 > 1. Informational responses (`100`–`199`),
-2. Successful responses (`200`–`299`),
-3. Redirects (`300`–`399`),
-4. Client errors (`400`–`499`),
-5. and Server errors (`500`–`599`).
+> 2. Successful responses (`200`–`299`),
+> 3. Redirects (`300`–`399`),
+> 4. Client errors (`400`–`499`),
+> 5. and Server errors (`500`–`599`).
 
 
 也就是说, 和五五队有五个人(童比大雄、西野霞、源静萱、御坂美琪、藤浦焕)、IPv4 地址可划分为 A、B、C、D、E 五类 ——
