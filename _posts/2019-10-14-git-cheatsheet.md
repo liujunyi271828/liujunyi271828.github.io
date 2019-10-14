@@ -159,7 +159,7 @@ share: true
   </tr>
 </table>
 
-PS: 拷贝的那个 JavaScript 代码:
+PS: 拷贝的那个 JavaScript 代码出自 [2015 年的 Stack Overflow 问题回答](https://stackoverflow.com/a/33928558):
 
 ```javascript
 <script>
