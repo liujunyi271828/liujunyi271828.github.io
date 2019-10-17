@@ -88,13 +88,20 @@ share: true
 作者: <span>Samuel Oloruntoba <a href="https://twitter.com/KayandraJT" style="display:inline;">@KayandraJT<img src="https://i.loli.net/2019/08/30/I38Ntz2m9GjTeJU.png" style="height:18px;vertical-align:bottom;display:inline;margin:0;"/></a></span> 写作时间: March 18, 2015
 
 
-我想把推特的那个鸟的图片和文字放到一行. 结果编辑器渲染得里还行, 一挂到网页上图就往下掉一行. 已经尽力了...
 
 ```html
+<!-- 原先: 我想把推特的那个鸟的图片和文字放到一行. 结果编辑器渲染得里还行, 一挂到网页上图就往下掉一行. 已经尽力了... -->
 <span>
     Samuel Oloruntoba 
     <a href="https://twitter.com/KayandraJT" style="display:inline-block;">@KayandraJT
         <img src="https://i.loli.net/2019/08/30/I38Ntz2m9GjTeJU.png" style="height:24px;vertical-align:middle;"/>
+    </a>
+</span>
+
+<!-- 现在: vertical-align不是baseline, 而是bottom, 暂时不知道为什么. 字号你用 Chrome 浏览器检查一下就完事儿了. -->
+<span>Samuel Oloruntoba 
+    <a href="https://twitter.com/KayandraJT" style="display:inline;">@KayandraJT
+        <img src="https://i.loli.net/2019/08/30/I38Ntz2m9GjTeJU.png" style="height:18px;vertical-align:bottom;display:inline;margin:0;"/>
     </a>
 </span>
 ```
