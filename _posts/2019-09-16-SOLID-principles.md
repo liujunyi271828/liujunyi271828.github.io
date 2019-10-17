@@ -85,7 +85,7 @@ share: true
 <a id="1-solid-the-first-5-principles-of-object-oriented-design"></a>
 ## 1. [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-作者: <span>Samuel Oloruntoba <a href="https://twitter.com/KayandraJT" style="display:inline;">@KayandraJT<img src="https://i.loli.net/2019/08/30/I38Ntz2m9GjTeJU.png" style="height:18px;vertical-align:baseline;display:inline;margin:0;"/></a></span> 写作时间: March 18, 2015
+作者: <span>Samuel Oloruntoba <a href="https://twitter.com/KayandraJT" style="display:inline;">@KayandraJT<img src="https://i.loli.net/2019/08/30/I38Ntz2m9GjTeJU.png" style="height:18px;vertical-align:bottom;display:inline;margin:0;"/></a></span> 写作时间: March 18, 2015
 
 
 我想把推特的那个鸟的图片和文字放到一行. 结果编辑器渲染得里还行, 一挂到网页上图就往下掉一行. 已经尽力了...
