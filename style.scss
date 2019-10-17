@@ -75,7 +75,7 @@ p {
 }
 
 a {
-  white-space: normal;
+  word-wrap:break-word;
   color: $link-color;
   text-decoration: none;
   cursor: pointer;
