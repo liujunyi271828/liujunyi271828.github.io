@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS 下 tree 命令乱码解决方案"
+title: "macOS 下 `tree` 命令乱码解决方案"
 description: "为加速搬砖而了解你的设备."
 date: 2019-10-19
 tags: [提高姿势水平,工具]
