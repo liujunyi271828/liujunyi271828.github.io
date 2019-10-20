@@ -57,3 +57,4 @@ share: true
 2. 官方英文原版说明书(这个是最新的): [官方说明书](http://roxley.com/santorini-rulebook)
 3. 官方 YTB 视频: [官方教学视频](http://roxley.com/santorini-video)
 4. 《希腊神话故事》〔德国〕施瓦布 著
+5. Wiki: [希腊神祇及神话人物列表](https://zh.wikipedia.org/zh-sg/希臘神祇及神話人物列表)
