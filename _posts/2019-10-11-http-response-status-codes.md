@@ -24,7 +24,7 @@ share: true
 * [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616): IETF 的, 排版还可以, 所有各章节都在一个页面上.
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html): W3C 的, 就有个首页, 想看哪个还得跳转到其他页.
 
-这里我们看下 [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [HTTP 响应代码 - HTTP | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status) 这个页面的开头:
+这里我们看下 [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [HTTP 响应代码 - HTTP &#x7c; MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status) 这个页面的开头:
 
 > HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:<br/>
 > 1. Informational responses (`100`–`199`),
