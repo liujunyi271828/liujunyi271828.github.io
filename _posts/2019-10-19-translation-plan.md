@@ -17,8 +17,6 @@ share: true
 
 现在是 2019 年 10 月 19 日. 准备做一篇 Santorini 规则说明的翻译. 统计一下工程量, 做一下项目规划, 顺便迈出走向项目经理的第一步. 
 
-不知道怎么画甘特图, 主要是现学画甘特图成本有些高, 否则还是甘特图省心啊😂
-
 ## 任务统计与工程进度规划
 
 1. 写信. (可以大概先打草稿, 但最终要**形成手写版本**.) (<span style="color:red;">未开始</span>)
@@ -27,8 +25,10 @@ share: true
 4. 下载官方的教学视频. (<span style="color:green;">已完成</span>)
 5. <span style="color:gray;">将官方视频中的英文字母翻译成中文字幕并修改.</span> (前驱任务是 4, <span style="color:red;">未开始</span>)<br/>翻译文本很费时间, 配时间轴就更费时间了, 而且在说明书翻译好的前提下这项任务的意义不是很大, 可做可不做. 想做的话就是在其他全部任务都完成以后再做.
 6. 完成英文原版说明书、羊版中文说明书的打印. (已前期咨询. <span style="color:red;">未开始</span>)
-7. 测量盒子尺寸. (<span style="color:red;">未开始</span>)
+7. 测量盒子尺寸. (<span style="color:blue;">工具已买好, 待测量</span>)
 8. 找合适的纸箱与包装材料、内容填充材料. (前驱任务是 7, <span style="color:red;">未开始</span>)
+
+![翻译计划项目规划png.png](https://i.loli.net/2019/10/23/a56mb2AlRiWTY1I.png)
 
 ## 完工时间
 
@@ -58,3 +58,8 @@ share: true
 3. 官方 YTB 视频: [官方教学视频](http://roxley.com/santorini-video)
 4. 《希腊神话故事》〔德国〕施瓦布 著
 5. Wiki: [希腊神祇及神话人物列表](https://zh.wikipedia.org/zh-sg/希臘神祇及神話人物列表)
+
+## 辅助工具
+
+* 项目管理应用: OmniPlan 3 (3.11.2 (v199.9 r327270), OmniPlan Pro  版). 对应文档: [目录](https://support.omnigroup.com/doc-assets//OmniPlan-Mac/OmniPlan-Mac-v3.0.0.1/zh/EPUB/xhtml/op3mac_nav.xhtml)
+
