@@ -27,6 +27,8 @@ share: true
 
 所以我们当然是用比较清真的原生手法来写. 再说不管是 ThinkPHP 5.1 还是 Laravel 5.8 都不支持 PHP 5.5 吧😂
 
+哈希的安全性, 可以通过阮一峰老师的这篇文章大概来了解一下: [哈希碰撞与生日攻击](http://www.ruanyifeng.com/blog/2018/09/hash-collision-and-birthday-attack.html)
+
 ## 1 [`password_hash()`](https://www.php.net/manual/en/function.password-hash.php)
 
 `password_hash()` 创建了一个密码的哈希值.
