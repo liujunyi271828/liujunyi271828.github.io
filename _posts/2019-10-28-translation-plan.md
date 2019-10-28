@@ -2,7 +2,7 @@
 layout: post
 title: "Santorini 规则翻译计划"
 description: "有原则不乱, 有计划不忙，有预算不穷."
-date: 2019-10-19
+date: 2019-10-28
 tags: [提高姿势水平,文学]
 comments: true
 share: true
@@ -31,6 +31,10 @@ share: true
 8. 找合适的纸箱与包装材料、内容填充材料. (前驱任务是 7, <span style="color:red;">未开始</span>)
 
 ![翻译计划项目规划png.png](https://i.loli.net/2019/10/23/a56mb2AlRiWTY1I.png)
+
+## 任务跟进情况评价
+
+1. 10.26 + 10.27: 本周末<span style="color:red">没弄完</span>, 周末伺候甲方了. 
 
 ## 完工时间
 
