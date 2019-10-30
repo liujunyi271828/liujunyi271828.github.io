@@ -2,7 +2,7 @@
 layout: post
 title: "新《我们的公司》三部曲之二: jQuery 学习"
 description: "为公司上市而学习 jQuery."
-date: 2019-09-24
+date: 2019-10-30
 tags: [提高姿势水平,我们的公司]
 comments: true
 share: true
@@ -14,7 +14,7 @@ share: true
 > 
 > Scdiler is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks. ...
 
-![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-brightgreen.svg)
+![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827)
 
 ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
 
@@ -8394,8 +8394,6 @@ Fading.
    * ...the <strong style="color:orange;">opaque</strong> language of the inspector's reports. 
      巡视员报告中晦涩难懂的语言
 
-
-
 #### 2. [`.fadeOut()`](https://api.jquery.com/fadeOut/)
 
 描述: Hide the matched elements by fading them to transparent.
@@ -8663,9 +8661,11 @@ Fading.
 
 ### [自定义](https://api.jquery.com/category/effects/custom-effects/)
 
+列了七个, 不过官网上不止七个. 没列出来的有一个在 jQuery 3.0 时代已经没有意义了.
+
 #### 1. [`.animate()`](https://api.jquery.com/animate/)
 
-描述: Perform a custom animation of a set of CSS properties.
+描述: Perform a custom animation of a set of CSS properties. 根据一组 CSS 属性来执行一个自定义动画.
 
 用法比较多, 截图如下:
 
@@ -8675,8 +8675,354 @@ Fading.
 
 The `.animate()` method allows us to create animation effects on any numeric CSS property. The only required parameter is a plain object of CSS properties. This object is similar to the one that can be sent to the `.css()` method, except that the range of properties is more restrictive.
 
-看到那个 numeric 了吧? 很好.
+看到那个 numeric 了吧? 很好. 也就是说呢, 所有用于 `.animate()` 方法的属性值必须是数字的. 比如说你 `background-color` 这个 property 通常来说就没法用 `.animate()` 来改值, 除非是装插件.
 
 注意: 
 
 > Unlike shorthand animation methods such as `.slideDown()` and `.fadeIn()`, the `.animate()` method does *not* make hidden elements visible as part of the effect. For example, given `$( "someElement" ).hide().animate({height: "20px"}, 500)`, the animation will run, but *the element will remain hidden*.
+
+`easing` 的值看起来有两个选项, 一个是 `linear`, 一个是 `swing`, 缺省值是 `swing`. 非要说出处的话是在 jQuery JavaScript Library v3.4.1 (普通完整版) 的第 7004 行到第 7012 行左右. 至于那些奇形怪状的值应该是 jQueryUI 里的. 但说实话, 恕我愚钝, 我还是没看出来这个 `linear` 和 `swing` 有什么区别...
+
+上例子:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>帽子绿</title>
+        <script src="jquery-3.4.1.js"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: green;
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div></div>
+        <script type="text/javascript">
+            $(function () {
+                $("div").click(function () {
+                    $(this).animate({
+                        opacity: 0.2,
+                        width: 400,
+                        left: 100,
+                    }, 1957, "linear", function () {
+                        alert("申帝你家右妃跟人跑了.")
+                    })
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+效果如下:
+
+![animate](https://upload.cc/i1/2019/10/30/eQEL0y.png)
+
+我们也可以对某个 CSS property 通过赋数组值的形式来进行单独指定, 比如我们把上面代码中的 `width: 400` 改为 `width: [400, "swing"]` 这种.
+
+我们也可以用 `.animate()` 方法来添加多个动画:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>帽子绿</title>
+        <script src="jquery-3.4.1.js"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: green;
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div></div>
+        <script type="text/javascript">
+            $(function () {
+                $("div").click(function () {
+                    // 第一个动画
+                    $(this).animate({
+                        opacity: 0.2,
+                        width: 400,
+                        left: 100,
+                    }, 1957, "linear")
+                    // 第二个动画
+                    $(this).animate({
+                        opacity: 0.6,
+                        width: [300, "linear"],
+                        top: 150,
+                    }, 1957, "linear", function () {
+                        alert("申帝你公司倒闭了.")
+                    })
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+添加多个动画的时候, 多个动画会依次执行.
+
+#### 2. [`.clearQueue()`](https://api.jquery.com/clearQueue/)
+
+描述: Remove from the queue all items that have not yet been run. 从队列中移除所有未被执行的项.
+
+注意是移除掉所有*未被执行的*项.
+
+可以传一个参数: `queueName`, 也就是字符串类型, 默认是 `fx`.
+
+举例如下:
+
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Clear Queue</title>
+        <script src="jquery-3.4.1.js" charset="utf-8"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: GreenYellow;
+                position: absolute;
+            }
+            button {
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div>申帝的绿盔</div>
+        <button>清除</button>
+        <script type="text/javascript">
+            $(function () {
+                var div = $("div")
+                div.click(function () {
+                    $(this).animate({
+                        width: 500,
+                        opacity: 0.2,
+                        left: 200
+                    }, 1957, "linear")
+                    $(this).animate({
+                        width: 200,
+                        opacity: 0.8,
+                        left: 100,
+                    }, 4000, "swing", function () {
+                        alert("绿盔侠与畐国女子亲卫队队长的故事, 下略 30 万字.")
+                    })
+                })
+                $("button").click(function () {
+                    div.clearQueue()
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+效果如下:
+
+![clearQueue](https://upload.cc/i1/2019/10/30/NH3YMe.png)
+
+分别对应的动画开始前、两个动画均结束以后、在第一个动画运行时点按钮停止. 上面那个效果图我是按照“停止”写的, 回头想想写“清除”更好一点儿, 就不回头改了.
+
+清队列的话, 不会立即停止, 而是把当前动画对应的 `.animate()` 的内容跑完之后再停止, 不往下跑之后的 `.animate()` 内容了.
+
+#### 3. [`.delay()`](https://api.jquery.com/delay/)
+
+描述: Set a timer to delay execution of subsequent items in the queue. 设置一个定时器来延迟执行队列中后续的项.
+
+参数可以传两个. 其中第一个参数 `duration` 必传, 第二个参数 `queueName` 可选.
+
+举例如下:
+
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Delay</title>
+        <script src="jquery-3.4.1.js" charset="utf-8"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: GreenYellow;
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div>申帝的绿盔</div><br>
+        <script type="text/javascript">
+            $(function () {
+                var div = $("div")
+                div.click(function () {
+                    $(this).animate({
+                        width: 500,
+                        opacity: 0.2,
+                        left: 200
+                    }, 1957, "linear").delay(1957)
+                    $(this).animate({
+                        width: 200,
+                        opacity: 0.8,
+                        left: 100,
+                    }, 4000, "swing", function () {
+                        alert("长皇后的意义就是没有意义.")
+                    })
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+这样, 在第一个动画跑完以后, 会停 1957 ms, 然后接着跑第二个动画.
+
+#### 4. [`.finish()`](https://api.jquery.com/finish/)
+
+描述: Stop the currently-running animation, remove all queued animations, and complete all animations for the matched elements. 停止当前正在运行的动画, 移除所有加入队列中的动画, 并完成匹配元素的所有动画.
+
+可以接收一个可选参数 —— 队列名. 
+
+举例如下:
+
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Finish</title>
+        <script src="jquery-3.4.1.js" charset="utf-8"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: GreenYellow;
+                position: absolute;
+            }
+            button {
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div>申帝的绿盔</div><br>
+        <button>完成</button>
+        <script type="text/javascript">
+            $(function () {
+                var div = $("div")
+                div.click(function () {
+                    $(this).animate({
+                        width: 500,
+                        opacity: 0.2,
+                        left: 200
+                    }, 1957, "linear")
+                    $(this).animate({
+                        width: 200,
+                        opacity: 0.8,
+                        left: 100,
+                    }, 4000, "swing", function () {
+                        alert("SCD 队长的第二春.")
+                    })
+                })
+                $("button").click(function () {
+                    div.finish()
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+点击“完成”按钮以后, 会直接跳转到 `alert(blahblahblah...)` 那块儿, 关掉弹窗之后 `div` 直接跳转到最后理论上动画结束的状态. 就不截图了.
+
+#### 5. [`.stop()`](https://api.jquery.com/stop/)
+
+描述: Stop the currently-running animation on the matched elements. 停止匹配元素当前正在运行的动画.
+
+停止会停止当前 `.animate()` 方法的内容, 保留当前状态, 继续执行下一项 `.animate()` 方法的动画内容(如果有的话).
+
+举例如下:
+
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Stop</title>
+        <script src="jquery-3.4.1.js" charset="utf-8"></script>
+        <style>
+            div {
+                width: 200px;
+                height: 200px;
+                background-color: GreenYellow;
+                position: absolute;
+            }
+            button {
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div>申帝的绿盔</div><br>
+        <button>停止</button>
+        <script type="text/javascript">
+            $(function () {
+                var div = $("div")
+                div.click(function () {
+                    $(this).animate({
+                        width: 500,
+                        opacity: 0.2,
+                        left: 200
+                    }, 1957, "linear")
+                    $(this).animate({
+                        width: 200,
+                        opacity: 0.8,
+                        left: 100
+                    }, 1998, "swing")
+                    $(this).animate({
+                        opacity: 0.5,
+                        top: 150
+                    }, 4000, "linear", function () {
+                        alert("申帝赐了长皇后一杯有机白干.")
+                    })
+                })
+                $("button").click(function () {
+                    div.stop()
+                })
+            })
+        </script>
+    </body>
+</html>
+
+```
+
+#### 6. [`.queue()`](https://api.jquery.com/queue/)
+
+描述: Show the queue of functions to be executed on the matched elements.
+
+这个视频里没讲. 自己下去看官网文档.
+
+感觉官方那个例子还可以.
+
+#### 7. [`.dequeue()`](https://api.jquery.com/dequeue/)
+
+描述: Execute the next function on the queue for the matched elements.
+
+这个视频里没讲. 也是自己下去看官网文档.
