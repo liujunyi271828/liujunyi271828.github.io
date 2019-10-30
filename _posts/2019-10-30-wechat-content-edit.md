@@ -79,7 +79,7 @@ share: true
 3. 秀米编辑器的素材想粘贴到微信公众平台编辑界面的话, 要先 command + A 全选内容, 然后右键, 点击省略号那个更多的按钮, 会出现: ![复制1.png](https://i.loli.net/2019/10/09/fDdXJSGcqTjKPYW.png) 点那个“复制到微信”, 然后在秀米的界面 command + C 再在微信公众平台编辑界面 command + V 才能复制粘贴成功: ![复制2.png](https://i.loli.net/2019/10/09/6QGatjAXzc5O4of.png) 真鸡儿蛋疼啊...
 4. 135 编辑器可能有的组件从编辑器复制粘贴的话粘不到微信公众平台官方编辑器界面里, 有的组件则可以, 总之慎用.
 5. 135 编辑器允许最多上传 100 个图, 不知道是一个月的呢还是全局的. 不氪金的话用作主力可能费事一点儿.
-6. 我个人比较喜欢用 Markdown 这种性冷淡的东西, 这两个 Markdown 转微信公众号的在线编辑器以后可以试试: 1️⃣[MPEditor Markdown 编辑器 - http://js8.in/mpeditor/](http://js8.in/mpeditor/)、2️⃣[Markdown-Weixin - https://md.qikqiak.com](https://md.qikqiak.com).
+6. 我个人比较喜欢用 Markdown 这种性冷淡的东西, 这两个 Markdown 转微信公众号的在线编辑器以后可以试试: 1️⃣[MPEditor Markdown 编辑器 - http://js8.in/mpeditor/](http://js8.in/mpeditor/)、2️⃣[Markdown-Weixin - https://md.qikqiak.com](https://md.qikqiak.com). 当然了, 你粘代码在 Markdown 编辑器的预览到微信公众号官方编辑平台的的时候代码会错位是个问题, 至少我以前碰到过. 我不知道这两个在线编辑器怎么样.
 
 #### 1.2.2 写作手法、工作流程、工作技巧备忘
 
