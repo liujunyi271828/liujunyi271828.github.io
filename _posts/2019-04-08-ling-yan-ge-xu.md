@@ -10,7 +10,7 @@ share: true
 
 > 讲述我司的故事.
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)<br/>[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)<br/>![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827)<br/>![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
 
 <img src="https://i.loli.net/2019/07/18/5d2faea1b27a559872.jpg" alt="凌烟阁.jpg" title="凌烟阁.jpg" style="display:block; margin-left:auto; margin-right:auto" />
 
