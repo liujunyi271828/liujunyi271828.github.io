@@ -2,7 +2,7 @@
 layout: post
 title: "图床 (image hosting) 资源整理与图片压缩介绍"
 description: "为文学事业而寻找趁手的工具."
-date: 2019-10-06
+date: 2019-11-06
 tags: [提高姿势水平,工具]
 comments: true
 share: true
@@ -12,7 +12,8 @@ share: true
 
 整理一下常用的或者准确来说是自己用的图床服务. 当前是查资料的形态, 如果是普通状态的话能否访问待验证. 总之全凭印象写了...
 
-2019.10.21 更新: 新加了个图片压缩.
+2019.10.21 更新: 新加了个 PhotoShop 图片压缩.
+2019.11.06 更新: 新加了个 Optimizilla 图片压缩. 更新 PS 压缩信息.
 
 ## 图床资源
 
@@ -27,6 +28,7 @@ share: true
 
 ## 图片压缩
 
-可以用 [TinyPNG – 压缩PNG图片的同时保留透明度](https://tinify.cn) 这个, 这个神器由前面提到的那位水友推荐.
+1. [TinyPNG – 压缩PNG图片的同时保留透明度](https://tinify.cn) 这个, 这个神器由前面提到的那位水友推荐. 可以上传一个最大长度为 20 的图片队列来进行压缩处理, 图片最大尺寸为 5 MB. 可以分别单图下载, 也可以将解压内容打包下载.
+2. [在线图片优化器 - Optimizilla是一款压缩JPEG和PNG图片至尽可能小尺寸的终极的图像优化器。](https://imagecompressor.com/zh/): 前面的 TinyPNG 不氪金买 Pro 的话最多能压 5 MB 的图, 再大的就压不了. 亲测这个 Optimizilla 可以压 10 MB 的图. 可以单图下载, 也可以在队列都压完以后点“合并”多图下载.
 
-再就可以使用 PhotoShop 来压. 先把参考材料放在这儿: [PS压缩图片文件大小,不失真！！！](https://blog.csdn.net/hetongun/article/details/78121062). 先干一会儿活, 晚上跑路以后整理成我自己的版本.
+再就可以使用 PhotoShop 来压. 先把参考材料放在这儿: [PS压缩图片文件大小,不失真！！！](https://blog.csdn.net/hetongun/article/details/78121062). 有空再整理成自己的版本. 以前的 CC 2017 肯定是可以用, 公司的 Win 电脑也有这个版本. 不过我最近自己的电脑系统升了级, 一打开这个 CC 2017 就闪退. 我会再搞一个 CC 2020, 看看还能不能那么用.
