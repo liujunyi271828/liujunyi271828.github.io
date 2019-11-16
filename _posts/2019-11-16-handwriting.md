@@ -2,7 +2,7 @@
 layout: post
 title: "写字"
 description: "为振兴喜瑞斯而写字."
-date: 2019-11-07
+date: 2019-11-16
 tags: [书法,文学]
 comments: true
 share: true
@@ -21,9 +21,11 @@ share: true
 ![fa-mom-1.jpg](https://i.loli.net/2019/11/07/Un7Ofm8qg1uciwl.jpg)
 ![fa-mom-2.jpg](https://i.loli.net/2019/11/07/TEdfKOVxgP6RaoU.jpg)
 
-感觉陈工应该练过字帖, 上限毫无疑问比我这种不练字帖的要高, 毕竟我都是照周围人看的. 当然了, 我这种冠绝公司妥妥儿够了, 只不过再往前走一步很困难.
+感觉陈工应该练过字帖, 上限毫无疑问比我这种不练字帖的要高, 毕竟我都是照周围人看的. 当然了, 我这种水平冠绝公司妥妥儿够了, 只不过再往前走一步很困难.
 
 字帖的话, 我觉得《钢笔楷行书标准教材》这本很不错, 注意是帝都硬笔书法学会编、帝都体育学院出版社出的那个一本的款.
+
+古典一些的字帖, 网上推荐《灵飞经》. 我买了, 但是这个是毛笔小楷, 有的手法你拿硬笔写是写不出来原样的, 但是这个精神你大概可以模仿一下.
 
 说说我自己的问题吧: 缺乏法度. 不过我也不大, 还有很长的路要走.
 
@@ -66,3 +68,18 @@ share: true
 ![MAL439.jpg](https://s2.ax1x.com/2019/11/07/MAL439.jpg)
 ![MAL5cR.jpg](https://s2.ax1x.com/2019/11/07/MAL5cR.jpg)
 ![MALIj1.jpg](https://s2.ax1x.com/2019/11/07/MALIj1.jpg)
+
+## S4
+
+![1-min.JPG](https://i.loli.net/2019/11/16/znTiNWPsH5mAEh4.jpg)
+![2-min.JPG](https://i.loli.net/2019/11/16/ET1I3QoRvrAkM8J.jpg)
+![3-min.JPG](https://i.loli.net/2019/11/16/Tt5zW8V7lMpQ6eK.jpg)
+![4-min.JPG](https://i.loli.net/2019/11/16/mD1iBAhT6CalPXY.jpg)
+![5-min.JPG](https://i.loli.net/2019/11/16/nHSKVXiWMGPN5gr.jpg)
+![6-min.JPG](https://i.loli.net/2019/11/16/NDgTFba8qQroRfz.jpg)
+![7-min.JPG](https://i.loli.net/2019/11/16/lSA8BWadC1OLmhR.jpg)
+![8-min.JPG](https://i.loli.net/2019/11/16/i7aC3xecApPOuTy.jpg)
+![9-min.JPG](https://i.loli.net/2019/11/16/kAVSuHBe8KPyr7a.jpg)
+
+
+
