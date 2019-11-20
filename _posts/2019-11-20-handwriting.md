@@ -2,7 +2,7 @@
 layout: post
 title: "写字"
 description: "为振兴喜瑞斯而写字."
-date: 2019-11-16
+date: 2019-11-20
 tags: [书法,文学]
 comments: true
 share: true
@@ -81,5 +81,15 @@ share: true
 ![8-min.JPG](https://i.loli.net/2019/11/16/i7aC3xecApPOuTy.jpg)
 ![9-min.JPG](https://i.loli.net/2019/11/16/kAVSuHBe8KPyr7a.jpg)
 
+## S5
 
+![1-min.JPG](https://i.loli.net/2019/11/20/RjNFPbS7m9VCDBw.jpg)
+![2-min.JPG](https://i.loli.net/2019/11/20/JAR4TNcSFOjVert.jpg)
+![3-min.JPG](https://i.loli.net/2019/11/20/C7JwbGPU21TAH4g.jpg)
+![4-min.JPG](https://i.loli.net/2019/11/20/1dBQGLphIrVgyla.jpg)
+![5-min.JPG](https://i.loli.net/2019/11/20/tuxfZAlrhnHVXTb.jpg)
+![6-min.JPG](https://i.loli.net/2019/11/20/lMLZUR4bt5i2B6k.jpg)
+![7-min.JPG](https://i.loli.net/2019/11/20/BNCZwKu4TD6UJsV.jpg)
+![8-min.JPG](https://i.loli.net/2019/11/20/d3Bn1rDXctifgkT.jpg)
+![9-min.JPG](https://i.loli.net/2019/11/20/DQMK2qzB81Ufuy7.jpg)
 
