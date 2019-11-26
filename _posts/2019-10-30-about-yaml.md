@@ -24,3 +24,5 @@ share: true
 
 * 注意用空格进行缩进, 而非使用 tab.
 * YAML 的部分是可以在 GFM 的 Markdown 文件中解析为表格的, 但是在我的这个 Markdown 编辑器中是解析不了的.
+
+在联动 Markdown 方面(比如博文模板头部), 注意不能在 YAML 行内文本中进行回车对文本字面量加入换行, 而是应该在行内使用 `<br/>` 进行换行. 例子可见 [例子](https://github.com/chenyifaerfans/fafaer-blog/commit/f1b2b31c977111c126d0513b4dff9a01d11a9bd3).
