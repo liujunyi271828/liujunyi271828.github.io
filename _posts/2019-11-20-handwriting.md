@@ -20,6 +20,16 @@ share: true
 
 ![fa-mom-1.jpg](https://i.loli.net/2019/11/07/Un7Ofm8qg1uciwl.jpg)
 ![fa-mom-2.jpg](https://i.loli.net/2019/11/07/TEdfKOVxgP6RaoU.jpg)
+![2019-12-01-Fa-mom-01.jpg](https://i.loli.net/2019/12/01/eZDOPkxjniwJ3pI.jpg)
+![2019-12-01-Fa-mom-02.jpg](https://i.loli.net/2019/12/01/n75RtCNP8SzJbVv.jpg)
+![2019-12-01-Fa-mom-03.jpg](https://i.loli.net/2019/12/01/DXI2EZiz5nmJeYB.jpg)
+![2019-12-01-Fa-mom-04.jpg](https://i.loli.net/2019/12/01/jGUwVg4cTmisrW7.jpg)
+![2019-12-01-Fa-mom-05.jpg](https://i.loli.net/2019/12/01/eK7xlqUgWNrjzpb.jpg)
+![2019-12-01-Fa-mom-06.jpg](https://i.loli.net/2019/12/01/sqSla4At1y6kzbE.jpg)
+![2019-12-01-Fa-mom-07.jpg](https://i.loli.net/2019/12/01/TjU14FfrPXHeyxO.jpg)
+![2019-12-01-Fa-mom-08.jpg](https://i.loli.net/2019/12/01/l2K1XUCjDsfRgQy.jpg)
+![2019-12-01-Fa-mom-09.jpg](https://i.loli.net/2019/12/01/zQVBInbkcAuo7ji.jpg)
+![2019-12-01-Fa-mom-10.jpg](https://i.loli.net/2019/12/01/6uwU4DOqWpQnGTM.jpg)
 
 感觉陈工应该练过字帖, 上限毫无疑问比我这种不练字帖的要高, 毕竟我都是照周围人看的. 当然了, 我这种水平冠绝公司妥妥儿够了, 只不过再往前走一步很困难.
 
