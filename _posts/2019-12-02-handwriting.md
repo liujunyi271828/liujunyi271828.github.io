@@ -2,7 +2,7 @@
 layout: post
 title: "写字"
 description: "为振兴喜瑞斯而写字."
-date: 2019-11-20
+date: 2019-12-02
 tags: [书法,文学]
 comments: true
 share: true
@@ -96,6 +96,16 @@ share: true
   7. 《说好不哭》
   8. 《远辰》
   9. 《萍聚》
+* S6:
+  1. 《Viva La Vida》
+  2. 《孤独患者》
+  3. 《我的爱》
+  4. 《情歌》
+  5. 《丝路》
+  6. 《山丘》
+  7. 《钟无艳》
+  8. 《广岛之恋》
+  9. 《奇妙能力歌》
 
 ## S1
 
@@ -157,3 +167,14 @@ share: true
 ![8-min.JPG](https://i.loli.net/2019/11/20/d3Bn1rDXctifgkT.jpg)
 ![9-min.JPG](https://i.loli.net/2019/11/20/DQMK2qzB81Ufuy7.jpg)
 
+## S6
+
+![Qn1Gi6.jpg](https://s2.ax1x.com/2019/12/02/Qn1Gi6.jpg)
+![Qn1YRO.jpg](https://s2.ax1x.com/2019/12/02/Qn1YRO.jpg)
+![Qn1UQe.jpg](https://s2.ax1x.com/2019/12/02/Qn1UQe.jpg)
+![Qn1JJK.jpg](https://s2.ax1x.com/2019/12/02/Qn1JJK.jpg)
+![Qn13Ix.jpg](https://s2.ax1x.com/2019/12/02/Qn13Ix.jpg)
+![Qn1asH.jpg](https://s2.ax1x.com/2019/12/02/Qn1asH.jpg)
+![Qn1dLd.jpg](https://s2.ax1x.com/2019/12/02/Qn1dLd.jpg)
+![Qn10eA.jpg](https://s2.ax1x.com/2019/12/02/Qn10eA.jpg)
+![Qn1BdI.jpg](https://s2.ax1x.com/2019/12/02/Qn1BdI.jpg)
