@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "写字"
+title: "写字 S1"
 description: "为振兴喜瑞斯而写字."
-date: 2019-12-02
+date: 2019-12-12
 tags: [书法,文学]
 comments: true
 share: true
@@ -30,6 +30,8 @@ share: true
 ![2019-12-01-Fa-mom-08.jpg](https://i.loli.net/2019/12/01/l2K1XUCjDsfRgQy.jpg)
 ![2019-12-01-Fa-mom-09.jpg](https://i.loli.net/2019/12/01/zQVBInbkcAuo7ji.jpg)
 ![2019-12-01-Fa-mom-10.jpg](https://i.loli.net/2019/12/01/6uwU4DOqWpQnGTM.jpg)
+![2019-12-12-Fa-mom-01-min.jpg](https://i.loli.net/2019/12/12/rgy6cjS89BnEfmR.jpg)
+![2019-12-12-Fa-mom-02-min.jpg](https://i.loli.net/2019/12/12/oLZGEMzY3pht4s8.jpg)
 
 感觉陈工应该练过字帖, 上限毫无疑问比我这种不练字帖的要高, 毕竟我都是照周围人看的. 当然了, 我这种水平冠绝公司妥妥儿够了, 只不过再往前走一步很困难.
 
@@ -44,11 +46,11 @@ share: true
 每九张一波.
 
 清单:
-* S0:
+* E0:
   1. 辣个女人的感言
   2. 辣个女人的暑假作业
   3. 辣个女人的早期习作（10 张）
-* S1:
+* E1:
   1. 《童话镇》
   2. 《夕阳之歌》
   3. 《易燃易爆炸》
@@ -57,7 +59,7 @@ share: true
   6. 《The Moment》
   7. 《终身美丽》
   8. 《追光者》
-* S2:
+* E2:
   1. 《红豆》
   2. 《野狼 Disco》
   3. 《化身孤岛的鲸》
@@ -67,7 +69,7 @@ share: true
   7. 《旋木》
   8. 《情人》
   9. 《拥抱》
-* S3:
+* E3:
   1. 《李香兰》
   2. 《慢慢喜欢你》
   3. 《尚好的青春》
@@ -77,7 +79,7 @@ share: true
   7. 《天黑黑》
   8. 《我要的幸福》
   9. 《童话镇 Plus》
-* S4:
+* E4:
   1. 《你的背包》
   2. 《心动》
   3. 《往后余生》
@@ -87,7 +89,7 @@ share: true
   7. 《成都》
   8. 《至少还有你》
   9. 《她说》
-* S5:
+* E5:
   1. 《雨天》
   2. 《旅行的意义》
   3. 《完美的一天》
@@ -97,7 +99,7 @@ share: true
   7. 《说好不哭》
   8. 《远辰》
   9. 《萍聚》
-* S6:
+* E6:
   1. 《Viva La Vida》
   2. 《孤独患者》
   3. 《我的爱》
@@ -107,8 +109,18 @@ share: true
   7. 《钟无艳》
   8. 《广岛之恋》
   9. 《奇妙能力歌》
+* E7:
+  1. 《热带雨林》
+  2. 《身骑白马》
+  3. 《遇见》
+  4. 《她来听我的演唱会》
+  5. 《会呼吸的痛》
+  6. 《我也很想他》
+  7. 《勇气》
+  8. 《刀剑如梦》
+  9. 《宁夏》
 
-## S1
+## E1
 
 ![1.JPG](https://i.loli.net/2019/11/07/QsgAExpLt5YIhXe.jpg)
 ![2.JPG](https://i.loli.net/2019/11/07/4wf5ulV8WBMdqPs.jpg)
@@ -120,7 +132,7 @@ share: true
 ![7.JPG](https://i.loli.net/2019/11/07/scOWyIjSDiAtMTV.jpg)
 ![8.JPG](https://i.loli.net/2019/11/07/CEGcS8maMbRhstz.jpg)
 
-## S2
+## E2
 
 ![1.JPG](https://i.loli.net/2019/11/07/gTjKprWXHE7AOn9.jpg)
 ![2.JPG](https://i.loli.net/2019/11/07/2tVguPsFaDQzcSy.jpg)
@@ -132,7 +144,7 @@ share: true
 ![8.JPG](https://i.loli.net/2019/11/07/P7ryNpqaLXTF1AI.jpg)
 ![9.JPG](https://i.loli.net/2019/11/07/RMoTFebYUhr58Vl.jpg)
 
-## S3
+## E3
 
 ![MAL2AU.jpg](https://s2.ax1x.com/2019/11/07/MAL2AU.jpg)
 ![MALWh4.jpg](https://s2.ax1x.com/2019/11/07/MALWh4.jpg)
@@ -144,7 +156,7 @@ share: true
 ![MAL5cR.jpg](https://s2.ax1x.com/2019/11/07/MAL5cR.jpg)
 ![MALIj1.jpg](https://s2.ax1x.com/2019/11/07/MALIj1.jpg)
 
-## S4
+## E4
 
 ![1-min.JPG](https://i.loli.net/2019/11/16/znTiNWPsH5mAEh4.jpg)
 ![2-min.JPG](https://i.loli.net/2019/11/16/ET1I3QoRvrAkM8J.jpg)
@@ -156,7 +168,7 @@ share: true
 ![8-min.JPG](https://i.loli.net/2019/11/16/i7aC3xecApPOuTy.jpg)
 ![9-min.JPG](https://i.loli.net/2019/11/16/kAVSuHBe8KPyr7a.jpg)
 
-## S5
+## E5
 
 ![1-min.JPG](https://i.loli.net/2019/11/20/RjNFPbS7m9VCDBw.jpg)
 ![2-min.JPG](https://i.loli.net/2019/11/20/JAR4TNcSFOjVert.jpg)
@@ -168,7 +180,7 @@ share: true
 ![8-min.JPG](https://i.loli.net/2019/11/20/d3Bn1rDXctifgkT.jpg)
 ![9-min.JPG](https://i.loli.net/2019/11/20/DQMK2qzB81Ufuy7.jpg)
 
-## S6
+## E6
 
 ![Qn1Gi6.jpg](https://s2.ax1x.com/2019/12/02/Qn1Gi6.jpg)
 ![Qn1YRO.jpg](https://s2.ax1x.com/2019/12/02/Qn1YRO.jpg)
@@ -179,3 +191,15 @@ share: true
 ![Qn1dLd.jpg](https://s2.ax1x.com/2019/12/02/Qn1dLd.jpg)
 ![Qn10eA.jpg](https://s2.ax1x.com/2019/12/02/Qn10eA.jpg)
 ![Qn1BdI.jpg](https://s2.ax1x.com/2019/12/02/Qn1BdI.jpg)
+
+## E7
+
+![Q2m2q0.jpg](https://s2.ax1x.com/2019/12/13/Q2m2q0.jpg)
+![Q2mgrq.jpg](https://s2.ax1x.com/2019/12/13/Q2mgrq.jpg)
+![Q2mfaT.jpg](https://s2.ax1x.com/2019/12/13/Q2mfaT.jpg)
+![Q2mWZV.jpg](https://s2.ax1x.com/2019/12/13/Q2mWZV.jpg)
+![Q2mhIU.jpg](https://s2.ax1x.com/2019/12/13/Q2mhIU.jpg)
+![Q2m5iF.jpg](https://s2.ax1x.com/2019/12/13/Q2m5iF.jpg)
+![Q2mIG4.jpg](https://s2.ax1x.com/2019/12/13/Q2mIG4.jpg)
+![Q2moRJ.jpg](https://s2.ax1x.com/2019/12/13/Q2moRJ.jpg)
+![Q2mTz9.jpg](https://s2.ax1x.com/2019/12/13/Q2mTz9.jpg)
