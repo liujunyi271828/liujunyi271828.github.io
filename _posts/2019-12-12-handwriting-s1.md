@@ -119,6 +119,16 @@ share: true
   7. 《勇气》
   8. 《刀剑如梦》
   9. 《宁夏》
+* E8:
+  1. 《无与伦比的美丽》
+  2. 《人间》
+  3. 《弦上有春秋》
+  4. 《我怀念的》
+  5. 《鱼》
+  6. 《平凡之路》
+  7. 《绿光》
+  8. 《神奇》
+  9. 《一首简单的歌》
 
 ## E1
 
@@ -203,3 +213,15 @@ share: true
 ![Q2mIG4.jpg](https://s2.ax1x.com/2019/12/13/Q2mIG4.jpg)
 ![Q2moRJ.jpg](https://s2.ax1x.com/2019/12/13/Q2moRJ.jpg)
 ![Q2mTz9.jpg](https://s2.ax1x.com/2019/12/13/Q2mTz9.jpg)
+
+## E8
+
+![Qjl4Gq.jpg](https://s2.ax1x.com/2019/12/21/Qjl4Gq.jpg)
+![QjlRaj.jpg](https://s2.ax1x.com/2019/12/21/QjlRaj.jpg)
+![Qjlhin.jpg](https://s2.ax1x.com/2019/12/21/Qjlhin.jpg)
+![Qjl2ZQ.jpg](https://s2.ax1x.com/2019/12/21/Qjl2ZQ.jpg)
+![Qjlcqg.jpg](https://s2.ax1x.com/2019/12/21/Qjlcqg.jpg)
+![Qjl5R0.jpg](https://s2.ax1x.com/2019/12/21/Qjl5R0.jpg)
+![QjlTMT.jpg](https://s2.ax1x.com/2019/12/21/QjlTMT.jpg)
+![Qjl7sU.jpg](https://s2.ax1x.com/2019/12/21/Qjl7sU.jpg)
+![QjlHLF.jpg](https://s2.ax1x.com/2019/12/21/QjlHLF.jpg)
