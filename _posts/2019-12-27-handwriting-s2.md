@@ -18,7 +18,9 @@ share: true
 
 依照旧例放出清单，我自己的是每九张一波。
 
-* E0：乔哥真迹复印版。可以从字里行间看出乔哥满满的求生欲。
+* E0：
+  1. 乔哥真迹复印版。可以从字里行间看出乔哥满满的求生欲。
+  2. 辣个女人的手稿。
 * E1：
   1. 《我只在乎你》
   2. 《原谅》
@@ -37,6 +39,10 @@ share: true
 ![liDoIU.jpg](https://s2.ax1x.com/2019/12/25/liDoIU.jpg)
 ![liDHG4.jpg](https://s2.ax1x.com/2019/12/25/liDHG4.jpg)
 ![liDIaT.jpg](https://s2.ax1x.com/2019/12/25/liDIaT.jpg)
+
+---
+
+![](https://s2.ax1x.com/2020/01/06/lrouvR.jpg)
 
 ## E1
 
