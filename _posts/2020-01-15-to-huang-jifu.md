@@ -15,4 +15,4 @@ share: true
 
 ---
 
-<span style="text-align:center;display:block;">寄黄几复</span><span style="text-align:center;display:block;">我居北海君南海，寄雁传书谢不能。</span><span style="text-align:center;display:block;">桃李春风一杯酒，江湖夜雨十年灯。</span><span style="text-align:center;display:block;">持家但有四立壁，治病不蕲三折肱。</span><span style="text-align:center;display:block;">想见读书头已白，隔溪猿哭瘴溪藤。</span>
+<strong style="text-align:center;display:block;">寄黄几复</strong><span style="text-align:right;display:block;">黄庭坚</span><span style="text-align:center;display:block;">我居北海君南海，寄雁传书谢不能。</span><span style="text-align:center;display:block;">桃李春风一杯酒，江湖夜雨十年灯。</span><span style="text-align:center;display:block;">持家但有四立壁，治病不蕲三折肱。</span><span style="text-align:center;display:block;">想见读书头已白，隔溪猿哭瘴溪藤。</span>
