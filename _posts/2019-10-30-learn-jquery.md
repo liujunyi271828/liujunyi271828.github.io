@@ -10,6 +10,8 @@ share: true
 
 > 为公司上市而学习 jQuery.
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
+
 > ...As capitalist, shEnD is only capital personified. His soul is the soul of capital. But capital has one single life impulse, the tendency to create value and surplus-value, to make its constant factor, the means of production, absorb the greatest possible amount of surplus labour.
 > 
 > Scdiler is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks. ...
@@ -9026,3 +9028,58 @@ The `.animate()` method allows us to create animation effects on any numeric CSS
 描述: Execute the next function on the queue for the matched elements.
 
 这个视频里没讲. 也是自己下去看官网文档.
+
+## 项目: 瀑布流
+
+为陈工而学习瀑布流. 我觉着拿陈工举例子更有利于增强学习效果, 虽然我对陈工没什么想法. 毕竟不是看到个好看的妹子你就要有想法, 太肤浅. 多关注关注他人身上的闪光点. 当然了, 陈工身上闪光点确实很多, 为人感觉还可以. 学习成绩也许没姨太大脸这种人牛逼, 但是算上唱歌水平写字水平个性为人等等的足可进入这种第一梯队.
+
+以后说不定再写到什么女神的时候, 可以考虑把陈工当成台柱子写, 主要是陈工技能全面, 比较立体, 可写的内容比较多.
+
+---
+
+瀑布流的准确叫法叫 Masonry Layout, 不要叫 Waterfall Flow 什么的, 那样显得你很 low, 就跟申帝和丶贵人俩文盲讨论“心仪”的写法到底是“心意”还是“心怡”一样. ![两个文盲.jpg](https://i.loli.net/2019/11/07/JlfE7Zz91wQDHeN.jpg) 文盲本身不可怕, 毕竟在认识伊始的时候我会平等看待每一个人, 而文盲也不是什么应当被鄙视的道德污点. 可怕的是一边儿文盲着, 一边儿还敢在文盲的这方面好为人师, 乃至为了自己的私利疯狂鼓吹, 缺乏对技术对真理的敬畏之心, 甚至是劣币驱逐良币, 霸占认真做事儿的人的生存空间. 可以说, AI 大数据区块链这种东西都是被这种侮辱技术的司马玩意儿玩坏的. 关于瀑布流的准确叫法, 可以看下下面的图片, 图片本身也是个链接, 想看原文的点过去跳转就行, 好好看下原 Po 主在那篇文章结尾处的红字: [![瀑布流吐槽.png](https://i.loli.net/2019/11/07/aQfN9ucRJAgFr4v.png)](https://blog.lindsayrain.com/2013/02/pinterest-like-web-design.html)
+
+示例:
+
+* [花瓣网—陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）](https://huaban.com/) 的素材分布比较频繁地应用了这种技术. 效果图如下: ![花瓣网瀑布流效果图](https://upload.cc/i1/2019/11/06/0cDy5W.png)
+
+我感觉这个东西对请求的要求比较高, 似乎应该先给图压一下, 然后再玩. 压图的方法参见: [图床 (image hosting) 资源整理与图片压缩介绍](https://liujunyi271828.github.io/image-hosting-resource-image-compression/). 如果这个地址举抱了, 那就上 **归档** 里翻一翻吧, 时间在 2019-11-06 之后. 我内容可能偶尔看到什么有意义的东西会更新, 但是标题应该不会大改.
+
+毫无疑问, 你瀑布流用到的图片长宽比例不应该是相同的, 不然就没有意义了. 不过咱图这么多, 这种情况基本上不大可能出现😂
+
+瀑布流的算法:
+
+1. 宽相等, 高度不等.
+2. 计算出当前 **列** (也就是竖行)高度最小的那一个, 下面继续放置图片.
+3. 当当前页图片内容不够显示的时候, 要继续加载新的图片.
+
+jQuery 插件参考网站:
+
+* [jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com): 随便点开了一个, 似乎是不需要积分.
+* [jQuery插件库-收集最全最新最好的jQuery插件](http://www.jq22.com): 有的下载需要积分.
+
+**注意**: 从这两个网站上下载下来的东西都需要用 Keka 来解压, 拿归档实用工具是解压不了的. 当然了, 如果你是 Windows 玩家那应该是不用在乎这个, 不行的话就多下载几个, 比如 2345 什么的, 只要压缩包没坏你肯定能解压出来.
+
+## 补遗
+
+关于动画效果的两个 CSS property:
+
+* [CSS property: transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+* [CSS property: transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+
+注意观察浏览器的支持情况. 看看是否需要加内核前缀.
+
+关于盒子的设置:
+
+* [CSS property: box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing): 两个备选值, 分别是 `content-box` 和 `border-box`.
+
+## AJAX
+
+使用 AJAX 分五步: 
+
+1. 创建一个异步对象;
+2. 设置请求方式和请求地址;
+3. 发送请求;
+4. 监听状态的变化;
+5. 处理返回的结果.
+
