@@ -47,3 +47,5 @@ Posted in: **ODD NEWS**,CHINA
 6. developer<br/>① N-COUNT （房地产）开发商，开发公司<br/>A **developer** is a person or a company that buys land and builds houses, offices, shops, or factories on it, or buys existing buildings and makes them more modern.<br/>② N-COUNT (想法、设计、产品等的)开发者<br/>A **developer** is someone who develops something such as an idea, a design, or a product.<br/>③ N-UNCOUNT 显影剂；显色剂<br/>**Developer** is a chemical used for developing photographs or films.
 7. livestreamer：拿陆谷孙查了下没查到，古哥也没有。就当直播主播理解吧。
 8. distraught：<br/>ADJ-GRADED 心烦意乱的;心急如焚的;发狂的<br/>If someone is **distraught**, they are so upset and worried that they cannot think clearly.
+
+![](https://upload.cc/i1/2020/02/01/V1tT2n.png)
