@@ -8,19 +8,18 @@
       {{ content }}
     </div>
     
-	<!-- valine -->
-	<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'grBTK8ObvLkpgyJwX6YXtz3B-gzGzoHsz',
-            appKey: 'ep6gYF4FC0u8sOQRe6MnqzR2'
-        })
-    </script>
-    
 	<div class="wrapper-footer">
       <div class="container">
-        <footer class="footer">
+		<!-- valine -->
+          <div id="vcomments"></div>
+            <script>
+              new Valine({
+              el: '#vcomments',
+              appId: 'grBTK8ObvLkpgyJwX6YXtz3B-gzGzoHsz',
+              appKey: 'ep6gYF4FC0u8sOQRe6MnqzR2'
+            })
+            </script>
+		<footer class="footer">
           {% include footer.html %}
         </footer>
       </div>
