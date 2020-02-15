@@ -2,7 +2,7 @@
 layout: post
 title: "Man sentenced for embezzling millions to tip webcam girls"
 date: 2020-02-01
-tags: [文学]
+tags: [提高姿势水平]
 comments: true
 share: true
 ---
@@ -54,4 +54,4 @@ Posted in: **ODD NEWS**,CHINA
 
 ---
 
-![](https://upload.cc/i1/2020/02/01/V1tT2n.png)
+![](https://i.loli.net/2020/02/10/F6dNri2oYVIK3ma.png)
