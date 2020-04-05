@@ -11,6 +11,9 @@ share: true
 
 原文链接：[“……率”都怎么表达](https://mp.weixin.qq.com/s/usR_K8js4lPRGm7ZRjFhEQ)
 
+* TOC
+{:toc}
+
 ## 常见的rate
 
 1. 世界各地，土著青年的中学毕业率大大低于各国的平均毕业率。Around the globe, indigenous youth are graduating from high school at <span style="color:red;">rate</span>s well below the national average.
