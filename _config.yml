@@ -36,7 +36,7 @@ navigation:
     url: /tags
   - name: 关于
     url: /about
-  - name: 痰宝
+  - name: 友情链接
     url: https://grandtanfans.github.io
 
 # Pagination
