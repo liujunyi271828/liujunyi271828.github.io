@@ -14,7 +14,6 @@ share: true
 
 看文档的时候看到这么一个 *pros and cons*, 不认识, 以前没见过这个词. 查一下.
 
-
 <!-- MarkdownTOC -->
 
 - [Definition of &apos;pros and cons&apos;](#definition-of-pros-and-cons)

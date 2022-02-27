@@ -22,7 +22,7 @@ share: true
 
 我看的是进度条到头的那期, 因为从最新的开始只有到 John Travolta 老师我才听说过😂然后系统给我随了一期贾老板和他媳妇儿 Jessica Biel 参加肥伦秀: [Best Friends Challenge with Justin Timberlake and Jessica Biel](https://www.youtube.com/watch?v=klo7ZlWV1kU), 这一期主要讲的是 Jessica Biel 和 Jimmy Fallon 猜贾老板的真心话. 到第三个问题是两个人一起猜贾老板的 safeword 是啥:
 
-![safeword.png](https://upload.cc/i1/2019/09/09/JWo713.png)
+![safeword.png](https://s4.ax1x.com/2022/02/13/HBONO1.png)
 
 结果两个人都猜对了, 场面非常喜庆, 之后我就去查了下这个 safeword 是个什么玩意儿...
 

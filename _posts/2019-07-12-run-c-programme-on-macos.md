@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在macOS中运行C程序"
+title: "如何在 macOS 中运行 C 程序"
 description: "为干出产值而研究技术."
 date: 2019-07-12
 tags: [提高姿势水平]

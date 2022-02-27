@@ -10,14 +10,11 @@ share: true
 
 > One of the most celebrated figures in American poetry, Robert Frost was the author of numerous poetry collections, including including <em>New Hampshire</em> (Henry Holt and Company, 1923). Born in San Francisco in 1874, he lived and taught for many years in Massachusetts and Vermont. He died in Boston in 1963.
 
-不知道怎么回事儿突然想起这首诗. 
+不知道怎么回事儿突然想起这首诗。
 
-初中的时候学过这首诗的中文版. 当时还太年轻, 自然是什么都不懂的.
-
-过了十多年想起来回头再看, 真香.
+初中的时候学过这首诗的中文版。当时还太年轻，自然是什么都不懂的。现在想起来回头再看，真香。讲道理初一安排这首诗有些浪费，不知道现在编教材那帮人改没改。
 
 ---
-
 
 Two roads diverged in a yellow wood,<br/>
 And sorry I could not travel both<br/>

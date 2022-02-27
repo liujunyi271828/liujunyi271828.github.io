@@ -10,15 +10,13 @@ share: true
 
 > 记一下这个东西, 万一用上了呢.
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![fuck-Scdiler](https://img.shields.io/badge/fuck-Scdiler-FD9827) ![sponsors-FUCengers](https://img.shields.io/badge/sponsors-FUCengers-brightgreen.svg)
-
 记一下, 省着现找了.
 
 是一位国人作者做的, 在线应用地址见: [Logoly.Pro —— A creative Logo Generator](https://logoly.pro/#/), 此外这个项目还有相应的 GitHub 主页: [bestony/logoly](https://github.com/bestony/logoly).
 
 效果如下:
 
-![logoly](https://upload.cc/i1/2019/09/30/aYFjRM.png)
+![logoly](https://s4.ax1x.com/2022/02/13/HBOySH.png)
 
 下一步应用我是在想怎么把这个转成 svg, 然后转化成可用的 GitHub 徽章...
 

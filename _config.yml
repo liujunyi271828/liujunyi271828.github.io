@@ -19,7 +19,7 @@ description: 只争朝夕，不负韶华。
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.loli.net/2020/01/20/oSNAP7Xjp8DgtCK.jpg # 动咸心的堂吉诃德 logo
+avatar: https://s4.ax1x.com/2022/02/28/buVpfe.jpg # 动咸心的堂吉诃德 logo
 # avatar: https://s2.ax1x.com/2019/10/26/K0a1XV.jpg # 动咸心的冷漠卡通 logo
 # https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
 
@@ -36,8 +36,8 @@ navigation:
     url: /tags
   - name: 关于
     url: /about
-  - name: GitHub
-    url: https://github.com/liujunyi271828
+  - name: 痰宝
+    url: https://grandtanfans.github.io
 
 # Pagination
 paginate: 8
@@ -61,7 +61,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2018er liujunyi271828（假如生活可以翻盘。我一定选大后期）
+footer-text: © 2018er liujunyi271828
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

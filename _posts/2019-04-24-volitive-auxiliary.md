@@ -10,7 +10,7 @@ share: true
 
 > 能愿动词介绍.
 
-英文原文请见[https://www.ietf.org/rfc/rfc2119.txt](https://www.ietf.org/rfc/rfc2119.txt). 这里放上核心的信息. 我们平时是用英文版的居多.
+英文原文请见 [https://www.ietf.org/rfc/rfc2119.txt](https://www.ietf.org/rfc/rfc2119.txt). 这里放上核心的信息. 我们平时是用英文版的居多.
 
    In many standards track documents several words are used to signify the requirements in the specification. These words are often capitalized. This document defines these words as they should be interpreted in IETF documents.  Authors who follow these guidelines should incorporate this phrase near the beginning of their document:
 
@@ -40,23 +40,18 @@ This phrase, or the phrase "NOT RECOMMENDED" mean that there may exist valid rea
 
 This word, or the adjective "OPTIONAL", mean that an item is truly optional.  One vendor may choose to include the item because a particular marketplace requires it or because the vendor feels that it enhances the product while another vendor may omit the same item. An implementation which does not include a particular option MUST be prepared to interoperate with another implementation which does include the option, though perhaps with reduced functionality. In the same vein an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.) 举例: 大家的努力领导都看在眼里, 年底**会**有说法.
 
-
 ## xxx领域/行业(如建筑、交通等)中的中文规范的用词
 
 1）表示很严格, 非要这样做不可的: 
 
-正面词采用“必须”, 反面词采用“严禁”; 
-  
+正面词采用“必须”, 反面词采用“严禁”;  
 
 2）表示严格, 在正常情况下均应这样做的: 
 
 正面词采用“应”, 反面词采用“不应”或“不得”;  
 
-
 3）表示允许稍有选择, 在条件许可时首先应这样做的: 
 
-
 正面词采用“宜”, 反面词采用“不宜”; 
-
 
 4）表示有选择, 在一定条件下可以这样做的, 采用“可”.

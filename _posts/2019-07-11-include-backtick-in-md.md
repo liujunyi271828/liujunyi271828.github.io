@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在md中打出反单引号 (backtick)"
+title: "如何在 Markdown 中打出反单引号 (backtick)"
 description: "为干出产值而研究技术."
 date: 2019-07-11
 tags: [提高姿势水平]

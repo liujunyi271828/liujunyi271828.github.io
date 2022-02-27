@@ -153,11 +153,11 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 正确：
 
-> 畐国模板项目用的这个摄像头只卖　200 元不到。
+> 模板项目用的这个摄像头只卖 200 元不到。
 
 错误：
 
-> 畐国模板项目用的这个摄像头只卖　２００ 元不到。
+> 模板项目用的这个摄像头只卖　２００ 元不到。
 
 例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全形数字的。
 
@@ -281,8 +281,6 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 | [Ruby China](https://ruby-china.org/) | 是  | 标题达成 |
 | [PHPHub](https://phphub.org/)  | 是  | 标题达成 |
 | [少数派](https://sspai.com/)  | 是  | N/A  |
-
-
 
 ## 参考文献
 
