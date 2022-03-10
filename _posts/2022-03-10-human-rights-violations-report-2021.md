@@ -17,15 +17,35 @@ share: true
 
 China on Monday issued \"The Report on Human Rights Violations in the United States in 2021.\"<br/>Following is the full text of the report:
  
-**2021年美国侵犯人权报告**<br/>中华人民共和国<br/>国务院新闻办公室<br/>2022年2月
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021年美国侵犯人权报告**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中华人民共和国
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国务院新闻办公室
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年2月
 
 The Report on Human Rights Violations in the United States in 2021<br/>The State Council Information Office of the People\'s Republic of China<br/>February 2022
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**目录**<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;序言<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、操弄疫情防控付出惨痛代价<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、固守暴力思维威胁生命安全<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、玩弄虚假民主践踏政治权利<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、放纵种族歧视加剧社会不公<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、背离人道主义制造移民危机<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六、滥用武力制裁侵犯他国人权
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**目录**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;序言
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、操弄疫情防控付出惨痛代价
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、固守暴力思维威胁生命安全
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、玩弄虚假民主践踏政治权利
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、放纵种族歧视加剧社会不公
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、背离人道主义制造移民危机
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六、滥用武力制裁侵犯他国人权
 
 Contents<br/>FOREWORD<br/>I. A HEAVY PRICE FOR U.S. EPIDEMIC PREVENTION AND CONTROL<br/>II. ENTRENCHED VIOLENT THINKING THREATENS LIVES<br/>III. PLAYING WITH FAKE DEMOCRACY TRAMPLES ON POLITICAL RIGHTS<br/>IV. INDULGING IN RACIAL DISCRIMINATION EXACERBATES SOCIAL INJUSTICE<br/>V. CREATING A MIGRANT CRISIS AGAINST HUMANITY<br/>VI. ABUSE OF FORCE AND SANCTIONS VIOLATES HUMAN RIGHTS IN OTHER COUNTRIES
  
-**序言**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**序言**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021年，劣迹斑斑的美国人权状况进一步恶化。政治操弄导致新冠肺炎死亡病例激增，枪击事件致死人数再创新高，虚假民主践踏民众政治权利，暴力执法让移民难民的处境更加艰难，针对少数族裔特别是亚裔的歧视攻击愈演愈烈。与此同时，美国单边主义行径在全球制造了新的人道灾难。
 
