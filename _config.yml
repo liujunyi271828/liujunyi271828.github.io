@@ -6,10 +6,10 @@
 name: Intrastellar
 
 # Short bio or description (displayed in the header)
-description: 踔厉奋发，笃行不怠。
+description: 愿你寂寥时有酒相伴，欢愉时不忘彼岸。
+# 踔厉奋发，笃行不怠。
 # 只争朝夕，不负韶华。
 # 此时相望不相闻，愿逐月华流照君。
-# 愿你寂寥时有酒相伴，欢愉时不忘彼岸。
 # 希望你像天上星一样坚定，永不怀疑，永无绝望。
 # 保留着对真诚、有趣、善良的欣赏和追求。
 
@@ -45,7 +45,7 @@ paginate: 8
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: 2128827791@qq.com
+  email: ljy271828@gmail.com
   facebook:
   flickr:
   github: # liujunyi271828
@@ -56,7 +56,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: liujunyimath
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
