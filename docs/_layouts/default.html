@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+	  <!-- valine -->
+          <div id="vcomments"></div>
+            <script>
+              new Valine({
+              el: '#vcomments',
+              appId: 'grBTK8ObvLkpgyJwX6YXtz3B-gzGzoHsz',
+              appKey: 'ep6gYF4FC0u8sOQRe6MnqzR2'
+            })
+            </script>
+    </div>
+    
+	<div class="wrapper-footer">
+	  <div class="container">
+		<footer class="footer">
+          {% include footer.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
