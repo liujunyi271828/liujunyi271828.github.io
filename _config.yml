@@ -6,7 +6,8 @@
 name: Intrastellar
 
 # Short bio or description (displayed in the header)
-description: 愿你寂寥时有酒相伴，欢愉时不忘彼岸。
+description: 我把太阳大声叫醒，还一身率性。 
+# 愿你寂寥时有酒相伴，欢愉时不忘彼岸。
 # 踔厉奋发，笃行不怠。
 # 只争朝夕，不负韶华。
 # 此时相望不相闻，愿逐月华流照君。
@@ -36,7 +37,7 @@ navigation:
   - name: 关于
     url: /about
   - name: 友情链接
-    url: https://grandtanfans.github.io
+    url: /link
 
 # Pagination
 paginate: 8
